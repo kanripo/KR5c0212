@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:54:28.646687
+#+TITLE: 北極真武普慈度世法懺
+#+PROPERTY: DZID  DZ0815
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—354 十卷 洞神部威儀類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
